@@ -8,5 +8,10 @@
         <members>AccountTrigger_for_GIT_handler</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>AccountTrigger_for_GIT_TEST_CLASS</members>
+        <name>ApexClass</name>
+    </types>
     <version>51.0</version>
 </Package>
+
